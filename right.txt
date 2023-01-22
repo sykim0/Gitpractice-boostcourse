@@ -1,2 +1,3 @@
 right.txt를 git pull/push를 통해 받아오기
 커밋함
+8392
