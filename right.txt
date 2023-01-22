@@ -1,0 +1,1 @@
+right.txt를 git pull/push를 통해 받아오기
